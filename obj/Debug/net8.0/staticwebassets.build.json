@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "UaaZKNdP3jsiSdysbc9P1Pg54wG17UCGAEmATvuXBnM=",
+  "Source": "ManageApp",
+  "BasePath": "_content/ManageApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ManageApp\\wwwroot",
+      "Source": "ManageApp",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\ManageApp\\ManageApp\\wwwroot\\",
+      "BasePath": "_content/ManageApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\ManageApp\\ManageApp\\wwwroot\\index.html",
+      "SourceId": "ManageApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\ManageApp\\ManageApp\\wwwroot\\",
+      "BasePath": "_content/ManageApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
